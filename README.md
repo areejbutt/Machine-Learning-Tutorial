@@ -24,5 +24,3 @@ This tutorial presents a clear comparison between K-Fold Cross-Validation and St
 2. Open the file K_Fold_vs_Stratified_K_Fold.ipynb.
 3. Execute the cells sequentially.
 4. All libraries used are standard: scikit-learn, matplotlib, numpy, seaborn.
-
-## Repository Files
